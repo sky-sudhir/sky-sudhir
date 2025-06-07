@@ -67,9 +67,8 @@ Managed team coordination and contributed to frontend architecture.
 
 I'm always open to collaboration, freelancing, or discussing cool ideas over coffee ☕.
 
-📧 **Email:** sudhirkr638@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/sudhir-19231a1a0](https://www.linkedin.com/in/sudhir-19231a1a0)  
-🖥️ **Portfolio:** [quickcampus.online](https://quickcampus.online)  
+📧 **Email:** sky875025@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/sudhir-19231a1a0](https://www.linkedin.com/in/sudhir-yadav-19231a1a0/)  
 🌐 **GitHub:** [github.com/sky-sudhir](https://github.com/sky-sudhir)
 
 ---
