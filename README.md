@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudhir Yadav
 
 **Sr. Software Engineer | React Developer | Full Stack Developer (MERN)**  
-📍 Delhi, India | 📫 sky875025@gmail.com | 🌐 [Portfolio](https://quickcampus.online) | [LinkedIn](https://www.linkedin.com/in/sudhir-yadav-19231a1a0/) | [GitHub](https://github.com/sky-sudhir)
+📍 Delhi, India | 📫 sky875025@gmail.com | [LinkedIn](https://www.linkedin.com/in/sudhir-yadav-19231a1a0/) | [GitHub](https://github.com/sky-sudhir)
 
 ---
 
