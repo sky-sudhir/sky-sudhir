@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sudhir
 
-**AI Engineer | Specializing in RAG, AI Agents, and Full-Stack AI Solutions**  
+**AI/ML Engineer | Full Stack Engineer | Specializing in RAG, AI Agents, and Full-Stack AI Solutions**  
 📍 Bengaluru, India | 📫 sudhirkr638@gmail.com | [LinkedIn](https://www.linkedin.com/in/sudhir-yadav-19231a1a0/)  
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sky-sudhir.sky-sudhir)
